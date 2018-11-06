@@ -1,0 +1,9 @@
+*.pro
+*.net
+*.kicad_pcb
+*.kicad_pcb-bak
+Winkekatze.bak
+Winkekatze-cache.lib
+fp-lib-table
+lib_footp/
+sym-lib-table
